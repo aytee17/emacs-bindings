@@ -1,5 +1,7 @@
 # vim-emacs-bindings
 
+A minimal set of emacs keys for insert mode in vim.
+
 ## Move Commands
 | Key    | Command                   |
 | ------ | ------------------------- |
