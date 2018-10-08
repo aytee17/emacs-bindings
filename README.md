@@ -4,6 +4,8 @@ A minimal set of emacs keys for insert mode in vim.
 
 `C = CTRL`  and `M = Meta`
 
+Make sure your terminal emulator reads `Alt` as `Meta`
+
 ## Move Commands
 
 | Key     | Command                   |
