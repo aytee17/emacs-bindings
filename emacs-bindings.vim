@@ -1,0 +1,13 @@
+inoremap <C-b> <Left>
+inoremap <C-f> <Right>
+inoremap <C-e> <End>
+inoremap <C-a> <Home>
+inoremap <C-h> <BS>
+inoremap <C-d> <Del>
+inoremap <C-u> <Right><ESC>d<Home>i
+inoremap <C-k> <Right><ESC>d<End>a
+inoremap <C-t> <Right><ESC>xpi
+inoremap <M-b> <Right><ESC>bi
+inoremap <M-f> <Right><ESC>wi
+inoremap <M-h> <Right><ESC>dbi
+inoremap <M-d> <Right><ESC>dwi
